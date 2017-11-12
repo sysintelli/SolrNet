@@ -1,5 +1,7 @@
 # Initialization
-#This is fomr TestDocument
+
+#This is created from New Document folder boochi
+
 Once you have created your document class, you have to initialize the library in order to operate against the Solr instance. This is usually done once at application startup:
 
 ```C#
